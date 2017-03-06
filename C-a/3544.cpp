@@ -1,0 +1,8 @@
+#include "stdio.h"
+
+int main(){
+    int x, y;
+    scanf("%d,%d", &x, &y);
+	printf("x+y=%d\nx-y=%d\n",x+y, x-y);
+	printf("x*y=%d\nx/y=%.2f\n",x*y, (float)x/y);
+}
