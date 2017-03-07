@@ -1,116 +1,77 @@
-<div class=WordSection1 style='layout-grid:20.0pt'>
+はやくあそびたい～
 
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN'><ruby
-style='ruby-align:distribute-space'><span lang=ZH-CN>早く遊びたい～</span><rp>(</rp><rt
-style='font-size:6.0pt;layout-grid-mode:line'>はやくあそびたい～</rt><rp>)</rp></ruby><span
-style='font-size:12.0pt'><o:p></o:p></span></span></p>
+あ、そでした、じゃ。。。
 
-<p class=MsoNormal>あ、そでした、じゃ。。。</p>
+まずは日焼け止（ひやけとめ）塗（ぬ）ります。
 
-<p class=MsoNormal><span lang=EN-US><ruby style='ruby-align:distribute-space'><span
-lang=JA>まずは日焼け止塗ります。</span><rp>(</rp><rt style='font-size:6.0pt;layout-grid-mode:
-line'>まずはひやけとめぬります｡</rt><rp>)</rp></ruby></span></p>
+こんなもの塗（ぬ）れないと肌（はだ）をいたみるなんで、下等生物（かとうせいぶつ）｡
 
-<p class=MsoNormal><span lang=EN-US><ruby style='ruby-align:distribute-space'><span
-lang=JA>こんなもの塗れないと肌をいたみるなんで、下等生物。</span><rp>(</rp><rt style='font-size:6.0pt;
-layout-grid-mode:line'>こんなものまみれないとはだをいたみるなんで､かとうせいぶつ｡</rt><rp>)</rp></ruby></span></p>
+小林（こばやし）さん、いきますよ。
 
-<p class=MsoNormal><span lang=EN-US><ruby style='ruby-align:distribute-space'><span
-lang=JA>小林</span><rp>(</rp><rt style='font-size:6.0pt;layout-grid-mode:line'>こばやし</rt><rp>)</rp></ruby></span><span
-style='font-size:12.0pt'>さん、いきますよ。</span></p>
+変（へん）なことしたらくび。
 
-<p class=MsoNormal><span lang=EN-US><ruby style='ruby-align:distribute-space'><span
-lang=JA>変</span><rp>(</rp><rt style='font-size:6.0pt;layout-grid-mode:line'>へん</rt><rp>)</rp></ruby></span><span
-style='font-size:12.0pt'>なことしたらくび。</span></p>
+はい。
 
-<p class=MsoNormal>はい。</p>
+じゃ、翔太（しょうた）くん、おねがいね。
 
-<p class=MsoNormal>じゃ、<span lang=EN-US><ruby style='ruby-align:distribute-space'><span
-lang=JA>翔太</span><rp>(</rp><rt style='font-size:6.0pt;layout-grid-mode:line'>しょうた</rt><rp>)</rp></ruby></span><span
-style='font-size:12.0pt'>くん、おねがいね。</span></p>
+はい～　じゃ、よろしく。
 
-<p class=MsoNormal>はい～　じゃ、よろしく。</p>
+さぁ～
 
-<p class=MsoNormal>さぁ～</p>
+無理（むり）。
 
-<p class=MsoNormal><span lang=EN-US><ruby style='ruby-align:distribute-space'><span
-lang=JA>無理</span><rp>(</rp><rt style='font-size:6.0pt;layout-grid-mode:line'>むり</rt><rp>)</rp></ruby></span><span
-style='font-size:12.0pt'>。</span></p>
+そう、じゃ、交代（こうたい）～
 
-<p class=MsoNormal>そう、じゃ、<span lang=EN-US><ruby style='ruby-align:distribute-space'><span
-lang=JA>交代</span><rp>(</rp><rt style='font-size:6.0pt;layout-grid-mode:line'>こうたい</rt><rp>)</rp></ruby></span><span
-style='font-size:12.0pt'>～</span></p>
+どう～　翔太（しょうた）くん。
 
-<p class=MsoNormal>どう～　<span lang=EN-US><ruby style='ruby-align:distribute-space'><span
-lang=JA>翔太</span><rp>(</rp><rt style='font-size:6.0pt;layout-grid-mode:line'>しょうた</rt><rp>)</rp></ruby></span><span
-style='font-size:12.0pt'>くん。</span></p>
+どう、どうっで。
 
-<p class=MsoNormal>どう、どうっで。</p>
+ちゃんと濡（ぬれ）てる？
 
-<p class=MsoNormal>ちゃんと<span lang=EN-US><ruby style='ruby-align:distribute-space'><span
-lang=JA>濡</span><rp>(</rp><rt style='font-size:6.0pt;layout-grid-mode:line'>ぬ</rt><rp>)</rp></ruby></span><span
-style='font-size:12.0pt'>れてる？</span></p>
+やっぱりお前（まえ）悪魔（あくまだろ）。
 
-<p class=MsoNormal>やっぱりお前<span lang=EN-US><ruby style='ruby-align:distribute-space'><span
-lang=JA>悪魔</span><rp>(</rp><rt style='font-size:6.0pt;layout-grid-mode:line'>あくま</rt><rp>)</rp></ruby></span><span
-style='font-size:12.0pt'>だろ。</span></p>
+えぇ～
 
-<p class=MsoNormal>えぇ～</p>
+ぼくをようわくしてどうするつもりだ！
 
-<p class=MsoNormal>ぼくをようわくしてどうするつもりだ！</p>
+ルコアさん、いっそう悪魔（あくま）とようことはいいじゃないか。
 
-<p class=MsoNormal>ルコアさん、いっそう<span lang=EN-US><ruby style='ruby-align:distribute-space'><span
-lang=JA>悪魔</span><rp>(</rp><rt style='font-size:6.0pt;layout-grid-mode:line'>あくま</rt><rp>)</rp></ruby></span><span
-style='font-size:12.0pt'>とようことはいいじゃないか。</span></p>
+早（はや）く遊（あそ）びたい。
 
-<p class=MsoNormal>早く遊びたい。</p>
+次（つぎ）はスイカ割り（わり）です。
 
-<p class=MsoNormal>次はスイカ<span lang=EN-US><ruby style='ruby-align:distribute-space'><span
-lang=JA>割り</span><rp>(</rp><rt style='font-size:6.0pt;layout-grid-mode:line'>わり</rt><rp>)</rp></ruby></span><span
-style='font-size:12.0pt'>です。</span></p>
+やる。
 
-<p class=MsoNormal>やる。</p>
+もっと右（みぎ）です。
 
-<p class=MsoNormal>もっと右です。</p>
+行（い）き過（す）ぎ、もう少（すこ）しひたり。
 
-<p class=MsoNormal>行き過ぎ、もう少しひたり<span lang=ZH-CN style='mso-fareast-language:
-ZH-CN'>。</span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+そうそう、そのまま真っすぐ（まっすぐ）。
 
-<p class=MsoNormal>そうそう、そのまま<span lang=EN-US><ruby style='ruby-align:distribute-space'><span
-lang=JA>真っすぐ</span><rp>(</rp><rt style='font-size:6.0pt;layout-grid-mode:line'>まっすぐ</rt><rp>)</rp></ruby></span><span
-style='font-size:12.0pt'>。</span></p>
+はい、ストップ。
 
-<p class=MsoNormal>はい、ストップ。</p>
+さすが神奈（かんな）です。あとかたのごさずけしされましたね！　
 
-<p class=MsoNormal>さすが<span lang=EN-US><ruby style='ruby-align:distribute-space'><span
-lang=JA>神奈</span><rp>(</rp><rt style='font-size:6.0pt;layout-grid-mode:line'>かんな</rt><rp>)</rp></ruby></span><span
-style='font-size:12.0pt'>です。あとかたのごさずけしされましたね！　</span><span lang=EN-US
-style='font-size:12.0pt;mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+ま、いいか。
 
-<p class=MsoNormal>ま、いいか。</p>
+泳ぎ（およぎ）たい。
 
-<p class=MsoNormal><span lang=EN-US><ruby style='ruby-align:distribute-space'><span
-lang=JA>泳ぎ</span><rp>(</rp><rt style='font-size:6.0pt;layout-grid-mode:line'>およぎ</rt><rp>)</rp></ruby></span><span
-style='font-size:12.0pt'>たい。</span></p>
+いいですね、行(い)きましょう。
 
-<p class=MsoNormal>いいですね、行きましょう。</p>
+おきまでいかないようにね。
 
-<p class=MsoNormal>おきまでいかないようにね。</p>
+どうしてですか。
 
-<p class=MsoNormal>どうしてですか。</p>
+危(あぶ)ないから。
 
-<p class=MsoNormal>危ないから。</p>
+確(たし)かに怖(こわ)いですよね　、リバイアさん。
 
-<p class=MsoNormal>確かに怖いですよね　、リバイアさん。</p>
+一度(いちど)殺（ころ）されそうになった時、ほんとにたいへんでしたよ。
 
-<p class=MsoNormal>一度殺されそうになった時、ほんとにたいへんでしたよ。</p>
+何したの　　。
 
-<p class=MsoNormal>何したの　　。</p>
+後ろ姿（すがた）見て、ラハブと間違えて呼たしまて。
 
-<p class=MsoNormal>後ろ姿見て、ラハブと間違えて呼たしまて。</p>
+テメ、　マジ殺すぞ。
 
-<p class=MsoNormal>テメ、　マジ殺すぞ。</p>
-
-<p class=MsoNormal>じゃなくで、　おぼれたら助からないから。</p>
-
-</div>
+じゃなくで、　おぼれたら助（たす）からないから。
